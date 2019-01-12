@@ -1,0 +1,9 @@
+#active:hover, #active:focus {
+	background: rgba(0,0,0,.20);
+	transition: all ease-in-out 0.45s;
+	border-radius: .50rem;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+/*navbar selesai*/
